@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AarviReja
 - 👀 I’m interested in reading, coding, and art.
-- 🌱 I’m currently learning Python and Java Script.
+- 🌱 I’m currently learning `Python` and `Javascript`.
 
 
 <!---
